@@ -152,7 +152,7 @@
 @media only screen and (max-width: 600px) {
     #card,#card1{
         display: inline-block;
-        width: 30rem;
+        width: 26rem;
 
     }
 }
