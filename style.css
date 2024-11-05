@@ -152,8 +152,14 @@
 @media only screen and (max-width: 600px) {
     #card,#card1{
         display: inline-block;
-        width: 26rem;
+        width: 27rem;
 
+    }
+    .card,.card1{
+        margin: 2rem 2rem; 
+        box-shadow: .5rem 1rem .5rem blanchedalmond;
+        width:16rem ;
+        height: 28rem;
     }
 }
 
